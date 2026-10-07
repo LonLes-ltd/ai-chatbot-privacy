@@ -47,7 +47,7 @@ Coding prompts and project content you submit are sent to the AI service only to
 
 On-device features (Linux workflows, duplicate-photo / large-file finder, local project work) process your data on your device. When you ask the AI assistant for help, your prompts and relevant code are transmitted to the AI service solely to produce the answer. Do not paste passwords, API keys, or other secrets into the assistant.
 
-[Read the full Privacy Policy \u2192](https://lonles-ltd.github.io/ai-chatbot-privacy/)
+[Read the full Privacy Policy →](https://lonles-ltd.github.io/ai-chatbot-privacy/)
 
 ## 📁 Project Contents
 
